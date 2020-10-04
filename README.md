@@ -13,7 +13,7 @@ Encryption, Cypher text generation, ethical hacking scripts and security based p
 [![GitHub issues](https://img.shields.io/github/issues/mbcse/Security_Hacking_Scripts?color=blue)](https://github.com/mbcse/Security_Hacking_Scripts/issues)
 [![GitHub issues closed](https://img.shields.io/github/issues-closed-raw/badges/shields?color=blue&style=flat-square)](https://github.com/mbcse/Security_Hacking_Scripts/issues?q=is%3Aissue+is%3Aclosed)
 [![GitHub pull requests](https://img.shields.io/github/issues-pr/cdnjs/cdnjs?style=flat-square)](https://github.com/mbcse/Security_Hacking_Scripts/pulls)
-[![GitHub pull requests](https://img.shields.io/github/issues-pr-closed/cdnjs/cdnjs?color=red)](https://github.com/mbcse/Security_Hacking_Scripts/pulls?q=is%3Apr+is%3Aclosed)
+[![GitHub pull requests](https://img.shields.io/github/issues-pr-closed/cdnjs/cdnjs?color=red&style=flat-square)](https://github.com/mbcse/Security_Hacking_Scripts/pulls?q=is%3Apr+is%3Aclosed)
 
 
 # About
