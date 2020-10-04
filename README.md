@@ -3,9 +3,7 @@
 Encryption, Cypher text generation, ethical hacking scripts and security based projects
 
 [![License](https://img.shields.io/github/license/mbcse/Security_Hacking_Scripts?color=green&style=flat-square)](https://github.com/mbcse/Security_Hacking_Scripts/blob/master/LICENSE)
-<!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-24-orange.svg?style=flat-square)](#contributors-)
-<!-- ALL-CONTRIBUTORS-BADGE:END -->
+
 [![GitHub forks](https://img.shields.io/github/forks/mbcse/Security_Hacking_Scripts?style=flat-square)](https://github.com/mbcse/Security_Hacking_Scripts/network/members)
 [![GitHub stars](https://img.shields.io/github/stars/mbcse/Security_Hacking_Scripts?style=flat-square)](https://github.com/mbcse/Security_Hacking_Scripts/stargazers)
 [![GitHub issues](https://img.shields.io/github/issues/mbcse/Security_Hacking_Scripts?color=blue&style=flat-square)](https://github.com/mbcse/Security_Hacking_Scripts/issues)
