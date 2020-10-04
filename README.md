@@ -1,6 +1,6 @@
 # Security_Hacking_Scripts
 
-<img src="https://s3.amazonaws.com/uno-website-assets/wp-content/uploads/2020/09/29111119/hacktoberfest-cover.jpeg" width=150px height=150px />
+<img src="https://s3.amazonaws.com/uno-website-assets/wp-content/uploads/2020/09/29111119/hacktoberfest-cover.jpeg" width=600px height=300px />
 
 **Encryption Algo Scripts, Ethical Hacking Scripts and Security Based Projects**
 
