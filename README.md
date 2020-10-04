@@ -3,6 +3,7 @@
 **Encryption Algo Scripts, Ethical Hacking Scripts and Security Based Projects**
 
 [![License](https://img.shields.io/github/license/mbcse/Security_Hacking_Scripts?color=green&style=flat-square)](https://github.com/mbcse/Security_Hacking_Scripts/blob/master/LICENSE)
+[![Hacktoberfest](https://img.shields.io/static/v1?label=Hacktoberfest&message=2020&color=blueviolet)](https://hacktoberfest.digitalocean.com/)
 
 [![GitHub forks](https://img.shields.io/github/forks/mbcse/Security_Hacking_Scripts?style=flat-square)](https://github.com/mbcse/Security_Hacking_Scripts/network/members)
 [![GitHub stars](https://img.shields.io/github/stars/mbcse/Security_Hacking_Scripts?style=flat-square)](https://github.com/mbcse/Security_Hacking_Scripts/stargazers)
