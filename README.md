@@ -18,10 +18,10 @@
 [![forthebadge](https://forthebadge.com/images/badges/built-with-swag.svg)](https://forthebadge.com)
 
 
-# About
+# 📌About
 This Repository is to curate the scripts used for hacking as well as for providing security to applications. It can be in form of some kind of learning material, scripts, projects, simulations scripts, encryption algorithms, etc.
 
-# Languages
+# 💻Languages
 - C++
 - Python
 - NodeJs
@@ -29,7 +29,8 @@ This Repository is to curate the scripts used for hacking as well as for providi
 - Java
 - Ruby
 - DJango
-# How To Contribute
+
+# 💥 How to Contribute?
 
 ## 1. Fork this repository
 
@@ -66,7 +67,7 @@ For example:
 ---
 
 ## 5. Make the required changes
-You can Contribute By adding
+  You can Contribute By adding
 - Encryption Alogorithms Script in any language
 - Adding Security Based Projects
 - Adding Ethical Hacking Scripts(DDOS etc)
