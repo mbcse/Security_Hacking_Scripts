@@ -2,6 +2,9 @@
 
 Encryption, Cypher text generation, ethical hacking scripts and security based projects
 
+[![License](https://img.shields.io/github/license/mbcse/Security_Hacking_Scripts?color=green&style=flat-square)](https://github.com/mbcse/Security_Hacking_Scripts/blob/master/LICENSE)
+
+
 # About
 This Repository is to curate the scripts used for hacking as well as for providing security to applications. It can be in form of some kind of learning material, scripts, projects, simulations scripts, encryption algorithms, etc.
 
