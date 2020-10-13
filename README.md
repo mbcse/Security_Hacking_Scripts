@@ -74,6 +74,7 @@ For example:
 - Adding Cybersecurity and Ethical Hacking Learning Resources(ppt's, readme's, docs, links, etc)
 - Making a website for this Project
 - Improving/Documenting The Readme
+- Checking for any typing and grammatical errors
 
 ---
 
