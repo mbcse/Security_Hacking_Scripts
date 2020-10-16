@@ -1,6 +1,6 @@
 # Security_Hacking_Scripts
 
-**Encryption Algo Scripts, Ethical Hacking Scripts, Cybersecurity-Ethical Hacking Learning Resources and Security Based Projects**
+**Encryption Algo Scripts, Ethical Hacking Scripts, Cybersecurity-Ethical Hacking Learning Resources, and Security-Based Projects**
 
 [![License](https://img.shields.io/github/license/mbcse/Security_Hacking_Scripts?color=green&style=flat-square)](https://github.com/mbcse/Security_Hacking_Scripts/blob/master/LICENSE)
 [![Hacktoberfest](https://img.shields.io/static/v1?label=Hacktoberfest&message=2020&color=blueviolet)](https://hacktoberfest.digitalocean.com/)
@@ -28,7 +28,7 @@ This Repository is to curate the scripts used for hacking as well as for providi
 - Go
 - Java
 - Ruby
-- DJango
+- Django
 
 # 💥 How to Contribute?
 
@@ -51,14 +51,14 @@ For example:
 
 ## 3. Move inside the repository
 
-Since you want to change the files inside, first let's move to the folder correctly. Use the following command on terminal:  
+Since you want to change the files inside, first let's move to the folder correctly. Use the following command on the terminal:  
 `cd Security_Hacking_Scripts`
 
 ---
 
 ## 4. Make a new branch
 
-Since now you're about to make your personal changes to the project, it's always a better idea to make a new branch. Run the following command:
+Since now you're about to make your changes to the project, it's always a better idea to make a new branch. Run the following command:
 
 `git checkout -b <branch_name>`  
 For example:  
@@ -68,8 +68,8 @@ For example:
 
 ## 5. Make the required changes
   You can Contribute By adding
-- Encryption Alogorithms Script in any language
-- Adding Security Based Projects
+- Encryption Algorithms  Script in any language
+- Adding Security-Based Projects
 - Adding Ethical Hacking Scripts(DDOS etc)
 - Adding Cybersecurity and Ethical Hacking Learning Resources(ppt's, readme's, docs, links, etc)
 - Making a website for this Project
@@ -82,7 +82,7 @@ For example:
 
 It's finally that time when you commit your changes and leave a beautiful commit message behind. You can run the following commands:
 
-`git add .`  
+`git add.`  
 `git commit -m "<Message>"`  
 For example:  
 `git commit -m "Added a script"`
