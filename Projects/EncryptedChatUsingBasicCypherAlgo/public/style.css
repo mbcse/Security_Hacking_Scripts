@@ -10,7 +10,7 @@ body {
     align-items: center;
     justify-content: center;
     min-height: 100vh;
-    background: #F8F8F8;
+    background: #070707;
     font-family: 'Roboto', sans-serif;
 }
 section.chat__section {
@@ -19,11 +19,18 @@ section.chat__section {
     background: #fff;
     box-shadow: 0 10px 15px -3px rgba(0, 0, 0, 0.1), 0 4px 6px -2px rgba(0, 0, 0, 0.05);
 }
+section.chat__section:hover{
+    background:rgb(59, 111, 255);
+}
 .brand {
     padding: 20px;
-    background: #f1f1f1;
+    background: #FBFBFB;
     display: flex;
     align-items: center;
+}
+.brand:hover{
+    background: #070707;
+    color:white
 }
 .brand h1 {
     text-transform: uppercase;
@@ -39,6 +46,9 @@ section.chat__section {
     overflow-y: auto;
     padding-top: 40px;
 }
+.message__area:hover{
+    background:rgb(59, 111, 255);
+}
 textarea {
     width: 100%;
     border: none;
@@ -47,13 +57,19 @@ textarea {
     outline: none;
     background: #FBFBFB;
 }
-
+textarea:hover{
+    background: #070707;
+    color:white;
+}
 .message {
     padding: 20px; 
     border-radius: 4px; 
     margin-bottom: 40px;
     max-width: 300px;
     position: relative;
+}
+.message:hover{
+    background:rgb(59, 111, 255);
 }
 .incoming {
     background: #8F8BE8;
